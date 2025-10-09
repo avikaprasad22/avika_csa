@@ -1,6 +1,7 @@
 ---
 layout: base
-title: John Tab 
+title: Avika's CSA Personal Blog 
+permalink: /home
 hide: true
 ---
 

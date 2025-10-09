@@ -1,11 +1,12 @@
-title: Open Coding 
-description: "Class of 2026"
-owner_name: John Mortensen
-github_username: jm1021 
-github_repo: "student" 
-baseurl: "/student" 
+title: Avika's CSA Personal Blog 
+description: "Class of 2027"
+owner_name: Avika Prasad
+github_username: avikaprasad22 
+github_repo: "avika_csa" 
+baseurl: "/avika_csa" 
 future: true
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
+theme: minima
 minima:
   skin: dark
   social_links:
